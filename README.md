@@ -76,7 +76,7 @@
 
 <h3>🔗 Access Notebook</h3>
 <p>
-  <strong><a href="https://drive.google.com/file/d/1fnbEfEIt9Juk4mCo6mjcHZyc4C40k8q4/view?usp=sharing">Open Colab Notebook (Recommended)</a></strong>
+  <strong><a href="https://drive.google.com/file/d/1-tIfQclSLa-mgleBOVl9CZghMfa5v3oW/view?usp=sharing">Open Colab Notebook</a></strong>
 </p>
 
 <h2>📊 Output Results</h2>
