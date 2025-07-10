@@ -76,7 +76,7 @@
 
 <h3>🔗 Access Notebook</h3>
 <p>
-  <strong><a href="https://drive.google.com/your-shared-link" target="_blank">Open Colab Notebook (Recommended)</a></strong>
+  <strong><a href="https://drive.google.com/file/d/1fnbEfEIt9Juk4mCo6mjcHZyc4C40k8q4/view?usp=sharing">Open Colab Notebook (Recommended)</a></strong>
 </p>
 
 <h2>📊 Output Results</h2>
@@ -121,7 +121,7 @@
 <p>Due to memory constraints, full datasets, model weights, and CSVs are provided via Google Drive.</p>
 
 <p>
-🔗 <strong><a href="https://drive.google.com/your-shared-link">Click here to access project files on Google Drive</a></strong><br>
+🔗 <strong><a href="https://drive.google.com/drive/folders/1cwXI0XCYV823UciGKcK6WnvXmHbwVCaJ?usp=sharing">Click here to access project files on Google Drive</a></strong><br>
 (Replace the above link with your actual shared folder)
 </p>
 
