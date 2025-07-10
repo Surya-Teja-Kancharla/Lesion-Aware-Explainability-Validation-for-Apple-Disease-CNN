@@ -1,0 +1,34 @@
+# Ignore folders
+data/
+original_dataset/
+
+# Ignore zip archives
+archive.zip
+original_dataset.zip
+results.zip
+
+# Ignore model files
+*.h5
+
+# Ignore Jupyter Notebooks
+*.ipynb
+
+# Ignore PDFs
+*.pdf
+# Ignore folders
+data/
+original_dataset/
+
+# Ignore zip archives
+archive.zip
+original_dataset.zip
+results.zip
+
+# Ignore model files
+*.h5
+
+# Ignore Jupyter Notebooks
+*.ipynb
+
+# Ignore PDFs
+*.pdf

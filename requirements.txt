@@ -1,0 +1,6 @@
+tensorflow>=2.8.0
+opencv-python
+numpy
+matplotlib
+pandas
+google-colab
